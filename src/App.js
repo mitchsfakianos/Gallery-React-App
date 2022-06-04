@@ -1,5 +1,5 @@
 import './index.css';
-import apiKey from 'config.js';
+import apiKey from './config.js';
 import React from 'react';
 import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
 import Nav from './Nav';
