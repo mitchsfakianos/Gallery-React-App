@@ -5,7 +5,7 @@ import Nav from './Nav';
 import SearchForm from './SearchForm';
 import DataContainer from './DataContainer';
 
-let apiKey = process.env.API;
+let apiKey = process.env.REACT_APP_API;
 
 export default class App extends React.Component {
 	constructor() {
