@@ -1,4 +1,4 @@
-# Gallery-React-App
+# Gallery React App Site
 
 Image gallery made using React App and the Flickr API. Returns photos based on keywords inputted by the user. 
 
